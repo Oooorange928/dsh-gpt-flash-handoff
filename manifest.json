@@ -1,0 +1,10 @@
+{
+  "files": {
+    "SKILL.md": "a53e847c65778926b876d231cb5023597a5f42f2e6073714255c6ffe75cb1aa4",
+    "references/acceptance-handoff.md": "7bf5dc6760964372ca8e044682f5e101a277b764ebb57ff671ebb4631d5b34e1",
+    "references/task-contract.md": "74cd100f6ece76bbc9a3618c19994ce0046415cf3ad63c4c3f3e19e656cfbc93"
+  },
+  "global_mode_sha256": "26224a88029b8e8e246c7d36133adb61288f4e9f027f0e93a042e8e37f4513a0",
+  "name": "gpt-flash-handoff",
+  "version": "1.0.0"
+}
